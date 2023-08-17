@@ -30,6 +30,7 @@
 *.mp4
 *.mpe4
 *.avi
+*.log
 
 # Executables
 *.exe
