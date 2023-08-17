@@ -29,6 +29,7 @@
 *.jpg
 *.mp4
 *.mpe4
+*.avi
 
 # Executables
 *.exe
