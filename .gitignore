@@ -27,6 +27,7 @@
 *.lib
 *.png
 *.jpg
+*.jpeg
 
 # Executables
 *.exe
